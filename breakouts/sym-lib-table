@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "level_shifter")(type "KiCad")(uri "/home/redl/git/chekr/sega_cartridge/megadrive_4MB_ROM_SM/part_lib/SN74AVCH16T245VR.kicad_sym")(options "")(descr ""))
+)

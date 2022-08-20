@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SST39VF3201-70-4C-EKE
+D SST39VF3201-70-4C-EKE, Parallel Split Gate Flash Memory, 2M x 16 bit 32Mbit, 70ns, 2.7  3.6 V, 48-Pin, TSOP
+K
+F https://componentsearchengine.com/Datasheets/1/SST39VF3201-70-4C-EKE.pdf
+$ENDCMP
+#
+#End Doc Library
